@@ -77,3 +77,4 @@ The backend API will run at [http://localhost:8080](http://localhost:8080).
 
 - [Material UI](https://mui.com/)
 - [React](https://react.dev/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
